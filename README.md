@@ -1,3 +1,22 @@
+# Automating the Design Thinking Process Through Digital Tools
+
+### What is Design Thinking
+Design thinking is a human-centred problem solving approach that emphasizes empathy, collaboration, and iterative testing to develop creative, user-friendly solutions.
+
+### The Problem
+Design thinking workshops often struggle with unequal participation , where dominant voices overshadow others, hindering collaboration and limiting diverse ideas.
+
+### A Solution
+This project proposes a digital tool that interfaces with Miro, a popular online collaborative whiteboard platform. The tool monitors participant engagement and provides real-time feedback to facilitators to identify and address participation imbalances, promoting a more inclusive workshop.
+
+### Poster
+![Design Thinking Automation (DTA) Poster_page-0001](https://github.com/user-attachments/assets/d239ffcc-dea7-4601-a18c-c1ab02e88ce1)
+
+
+To learn more about my project and the widgets, please visit my thesis website:  
+https://projects.cs.uct.ac.za/honsproj/cgi-bin/view/2024/oryanpaulo.zip/  
+  
+
 ## My Miro App
 ### How to start locally
 
